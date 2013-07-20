@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Hauptrolle_ScrollToTop>
+            <version>1.0.0</version>
+        </Hauptrolle_ScrollToTop>
+    </modules>
+
+    <frontend>
+        <layout>
+            <updates>
+                <hauptrolle_scrolltotop>
+                    <file>hauptrolle_scrolltotop.xml</file>
+                </hauptrolle_scrolltotop>
+            </updates>
+        </layout>
+        <translate>
+            <modules>
+                <Hauptrolle_ScrollToTop>
+                    <files>
+                        <hauptrolle_scrolltotop>Hauptrolle_scrolltotop.csv</hauptrolle_scrolltotop>
+                    </files>
+                </Hauptrolle_ScrollToTop>
+            </modules>
+        </translate>
+
+    </frontend>
+</config>

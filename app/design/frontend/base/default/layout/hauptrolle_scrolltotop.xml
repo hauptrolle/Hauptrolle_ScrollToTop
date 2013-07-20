@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+        <reference name="head">
+            <action method="addItem"><name>css/hauptrolle_scrolltotop.css</name></action>
+        </reference>
+        <reference name="before.body.end">
+            <block type="core/template" name="hauptrolle_scroll_to_top" as="scroll_to_top" template ="hauptrolle/button.phtml" />
+        </reference>
+    </default>
+</layout>

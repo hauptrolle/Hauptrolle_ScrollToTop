@@ -1,0 +1,7 @@
+app/code/community/Hauptrolle/ScrollToTop/ app/code/community/Hauptrolle/ScrollToTop/
+app/design/frontend/base/default/layout/hauptrolle_scrolltotop.xml app/design/frontend/base/default/layout/hauptrolle_scrolltotop.xml
+app/design/frontend/base/default/template/hauptrolle/scrolltotop app/design/frontend/base/default/template/hauptrolle/scrolltotop
+app/etc/modules/Hauptrolle_ScrollToTop.xml app/etc/modules/Hauptrolle_ScrollToTop.xml
+app/locale/de_DE/Hauptrolle_scrolltotop.csv app/locale/de_DE/Hauptrolle_scrolltotop.csv
+skin/frontend/base/default/css/hauptrolle_scrolltotop.css skin/frontend/base/default/css/hauptrolle_scrolltotop.css
+skin/frontend/base/default/js/hauptrolle_scrolltotop.js skin/frontend/base/default/js/hauptrolle_scrolltotop.js

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Hauptrolle_ScrollToTop>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Hauptrolle_ScrollToTop>
+    </modules>
+</config>
