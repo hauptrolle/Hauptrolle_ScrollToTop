@@ -1,4 +1,5 @@
-.hauptrolle_scrolltotop {
-    padding: 10px;
-    background: red;
+#hauptrolle_scrolltotop {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
 }
