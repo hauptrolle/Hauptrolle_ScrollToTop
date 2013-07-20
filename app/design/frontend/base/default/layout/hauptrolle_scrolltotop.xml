@@ -4,7 +4,7 @@
         <reference name="head">
             <action method="addItem"><type>skin_css</type><name>css/hauptrolle_scrolltotop.css</name></action>
         </reference>
-        <reference name="before.body.end">
+        <reference name="before_body_end">
             <block type="core/template" name="hauptrolle_scroll_to_top" as="scroll_to_top" template ="hauptrolle/button.phtml" />
         </reference>
     </default>
