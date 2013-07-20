@@ -3,7 +3,7 @@ document.observe('dom:loaded', function() {
     $('hauptrolle_scrolltotop').hide();
 
     Event.observe(window, 'scroll', function() {
-        if(self.pageYOffset > 400) {
+        if(self.pageYOffset > 250) {
             new Effect.Appear('hauptrolle_scrolltotop', { duration: .3 });
         } else {
             new Effect.Fade('hauptrolle_scrolltotop', { duration: .3 });
